@@ -1,0 +1,7 @@
+export const light =css'
+--color-primary:#ff;
+--color-secondary:#000;
+'
+export const dark =./Movie-Card.css'
+-color-primary:#ff;
+--color-secondary:#fff;

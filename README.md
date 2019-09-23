@@ -1,2 +1,0 @@
-# CartelMovies
-Created with CodeSandbox
